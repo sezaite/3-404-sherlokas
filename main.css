@@ -4,14 +4,14 @@ body {
 }
 
 img {
-  display: inline-block;
+  /* display: inline-block; */
   width: 30%;
   float: left;
   margin-left: 10%;
 }
 
 div {
-  display: inline-block;
+  /* display: inline-blocSk; */
   width: 40%;
   float: left;
   text-align: center;
